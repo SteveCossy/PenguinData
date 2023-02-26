@@ -33,4 +33,7 @@ The filenames on that page are Cayenne device names (32 randomish characters) fo
 | 18 |       | 15   |        |
 | 19 |       | 18   |        |
 | 20 | 3     |      | mVolts |
-| 30 | MQTT Status      |      |        |
+| 30 | RFID Status      |      |        |
+| 31 | | | |
+| 32 | | | |
+| 33 | | | |
