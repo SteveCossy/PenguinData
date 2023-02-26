@@ -1,0 +1,112 @@
+ 1891  ls CSVdata/
+ 1892  mv cayenneMQTT.txt cayenneMQTT.20230213
+ 1893  nano cayenneMQTT.txt
+ 1894  /usr/bin/python3 /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py
+ 1895  ls -l CSVdata/
+ 1896  gedit /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py
+ 1897  gedit /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py &
+ 1898  ls -l  /home/cosste/CSVfiles/
+ 1899  cat  /home/cosste/CSVfiles/*
+ 1900  cat -n /home/cosste/IOT/LoRaReAd/MQTTUtils.py
+ 1901  /usr/bin/python3 /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py
+ 1902  grep -niC 1 location /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py
+ 1903  python3 /home/cosste/IOT/CayenneMQTT/MQTTmultiRead.py
+ 1904  nano MQTTmultiRead.txt
+ 1905  python3 /home/cosste/IOT/CayenneMQTT/MQTTmultiRead.py
+ 1906  grep --help
+ 1907  git pull
+ 1908  cd IOT/
+ 1909  git pull
+ 1910  git status
+ 1911  cd CayenneMQTT/
+ 1912  nano SpecMQTT_to_csv.py
+ 1913  python3 SpecMQTT_to_csv.py
+ 1914  cd
+ 1915  ls 
+ 1916  nano SpecMQTT.txt
+ 1917  python3 /home/cosste/IOT/CayenneMQTT/SpecMQTT_to_csv.py
+ 1918  exit
+ 1919  history | tail -50
+ 1920  gedit /home/cosste/IOT/CayenneMQTT/MQTTmultiRead.py
+ 1921  gedit /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py &
+ 1922  python3 /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py 
+ 1923  ls -l CSVfiles/
+ 1924  crontab -l
+ 1925  python3 /home/cosste/IOT/CayenneMQTT/cayMQTT_to_csv.py &
+ 1926  ls -l CSVfiles/
+ 1927  exit
+ 1928  ls -l CSVfiles/
+ 1929  cat /home/cosste/IOT/MQTTupload/Run-If-Needed.sh 
+ 1930  cat /home/pi/IOT/MQTTupload/Serial_multi_MQTT3.py
+ 1931  cat /home/cosste/IOT/MQTTupload/Serial_multi_MQTT3.py
+ 1932  ls -l /home/cosste/IOT/MQTTupload/
+ 1933  cat /home/cosste/IOT/MQTTupload/markers1704.py 
+ 1934  grep -i cayMQTT_to_csv.py /home/cosste/IOT/MQTTupload/*
+ 1935  cat /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1936  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh &
+ 1937  ls -l logs/
+ 1938  cat logs/Run-If-Needed-Text 
+ 1939  ls -l CSVfiles/
+ 1940  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1941  cat logs/Run-If-Needed-Text 
+ 1942  date
+ 1943  ls -l logs/
+ 1944  cat logs/Run-If-Needed-Text 
+ 1945  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1946  cat logs/Run-If-Needed-Text 
+ 1947  head -20 /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1948  crontab -e
+ 1949  tail -n /home/cosste/CSVfiles/adeef670-4bcd-11eb-b767-3f1a8f1211ba_6
+ 1950  cat -n /home/cosste/CSVfiles/adeef670-4bcd-11eb-b767-3f1a8f1211ba_6 | tail
+ 1951  cat -n /home/cosste/CSVfiles/adeef670-4bcd-11eb-b767-3f1a8f1211ba_6.csv | tail
+ 1952  cat logs/Run-If-Needed-Text 
+ 1953  cat logs/Run-If-Needed-Error 
+ 1954  echo /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1955  crontab -l
+ 1956  crontab -e
+ 1957  echo /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1958  cat logs/Run-If-Needed-Error 
+ 1959  cat logs/Run-If-Needed-Text 
+ 1960  crontab -l
+ 1961  crontab -e
+ 1962  cat logs/Run-If-Needed-Text 
+ 1963  ls -l CSVfiles/
+ 1964  history | grep RUN
+ 1965  history | grep Run
+ 1966  cat /home/cosste/IOT/MQTTupload/Run-If-Needed.sh 
+ 1967  crontab -l
+ 1968  ls
+ 1969  crontab -e
+ 1970  cat /home/cosste/IOT/MQTTupload/Monitor.sh
+ 1971  /home/cosste/IOT/MQTTupload/Monitor.sh
+ 1972  /home/cosste/IOT/MQTTupload/Run-If-Needed.sh
+ 1973  history | grep Run
+ 1974  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1975  head -20 /home/cosste/IOT/MQTTupload/Run-If-Needed.sh
+ 1976  head -20 /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1977  cat logs/Run-If-Needed-Text 
+ 1978  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1979  cat logs/Run-If-Needed-Text 
+ 1980  crontab -l | grep Run
+ 1981  crontab -l 
+ 1982  crontab -e
+ 1983  echo $HOME
+ 1984  crontab -e
+ 1985  cat CronText 
+ 1986  cat logs/Run-If-Needed-Text 
+ 1987  cat /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1988  nano /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1989  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1990  cat logs/Run-If-Needed-Text 
+ 1991  /home/cosste/IOT/MQTTupload/Run-If-Needed-Monitor.sh
+ 1992  cat logs/Run-If-Needed-Text 
+ 1993  exit
+ 1994  git lfs push
+ 1995  git lfs push origin main
+ 1996  git status
+ 1997  git add .
+ 1998  git status
+ 1999  git commit -m "Try again"
+ 2000  git push
+ 2001  git push --set-upstream origin main
+ 2002  history > GitSetupCommands.txt
